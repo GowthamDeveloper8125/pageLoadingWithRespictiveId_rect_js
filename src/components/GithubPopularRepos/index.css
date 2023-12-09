@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.RepostoryItemsMainContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.popularHeading {
+  font-family: Lobster;
+  text-align: center;
+}
+.ListItems {
+  list-style-type: none;
+}
+.ListContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
